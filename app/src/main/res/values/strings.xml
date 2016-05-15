@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">daniel-pset4</string>
+    <string name="add_button_text">Add</string>
+    <string name="edit_text_hint">Enter your to-do, please.</string>
+</resources>
